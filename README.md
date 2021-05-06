@@ -20,7 +20,7 @@ The following variables will be used in this test:
 <pre class="prettyprint lang-sh">
     $ gsutil mb gs://<var>GCS_BUCKET</var>
 
-    $ gsutil cp ~/Downloads/file1.zip gs://<var>GCS_BUCKET</var>/install/
+    $ gsutil cp ~/Downloads/file_1.zip gs://<var>GCS_BUCKET</var>/install/
     $ gsutil cp ~/Downloads/file-2.zip  gs://<var>GCS_BUCKET</var>/install/
     $ gsutil cp ~/Downloads/file-3.zip  gs://<var>GCS_BUCKET</var>/install/
  </pre>
